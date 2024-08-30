@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://fansoath.github.io/sitemap/sitemap.txt
